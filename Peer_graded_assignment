@@ -1,0 +1,29 @@
+My Jupyter Notebook on IBM Watson Studio
+
+I am NIMAL and I want become a DATA SCIENTIST in the TECH SECTOR
+
+I am interested in Data Science because I am a very curious person and whenever I find an insight I feel a small sense of accomplisment that motivates me to continue doing that.
+
+My code is supposed to show basic mathematical functions
+
+IN1=3+5
+IN2=IN1/8
+print(IN2)
+
+Some different markdown cell representations:
+
+![image.png](attachment:image.png)
+
+https://www.ibm.com/cloud/learn/data-science-introduction#:~:text=Data%20science%20combines%20math%20and,decision%20making%20and%20strategic%20planning.
+
+* Cell 1 (rendered as Markdown): The title should be "My Jupyter Notebook on IBM Watson Studio", in H1 header styling. The title does not need to be centered.
+
+- Cell 2 (rendered as Markdown): Include your name, in bold characters. In the line below your name, write your current or desired occupation in regular font.
+
+1. Cell 3 (rendered as Markdown): In italic formatting, write one or two sentences about why you are interested in data science. For example, you can start your first sentence with "I am interested in data science because ...".
+
+2. Cell 4 (rendered as Markdown): In H3 header styling, explain in a short sentence what your code is supposed to do in Cell 5.
+
+3. Cell 5 (code cell): Your code, as described in Cell 4. It must be executed and must display an output. Try to keep the code simple (it can even be "1 + 1").
+
+4. Cell 6 (rendered as Markdown): Using Markdown or HTML, this cell must include at least 3 of the following: horizontal rule, bulleted list, numbered list, tables, hyperlinks, images, code/syntax highlighting, blocked quotes, strikethrough.
